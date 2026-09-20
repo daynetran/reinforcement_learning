@@ -1,3 +1,16 @@
+<!--
+PR TITLE CONVENTION:
+Format: [Title][Subtitle][x/n] <Description in 7 words or less, Title Case>
+If part of a stack, [x/n] is mandatory (e.g., [1/5]).
+
+Examples:
+- [Ch02][Minimal][1/5] Implement Minimal REINFORCE Algorithm
+- [Ch02][Improved][2/5] Implement Baseline And Entropy Bonus
+- [Ch02][Experiment][3/5] Reproduce Figure 2.4 Baseline Comparison
+- [Ch02][Visualizer][4/5] Add Policy Visualizers And Web Simulator
+- [Ch02][Docs][5/5] Add Chapter 2 Reference PDF
+-->
+
 ## 📝 Summary
 <!-- What does this PR implement? What chapter or concept from 'Foundations of Deep RL' does it cover? -->
 
