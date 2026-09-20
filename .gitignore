@@ -1,0 +1,18 @@
+# Python Virtual Environments
+.venv/
+env/
+venv/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Linter / tooling caches
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
